@@ -1,0 +1,51 @@
+/* 
+h1{
+    color : blue;
+}
+h2
+{
+    color :royalblue;
+} */
+
+/* Grouping Selector */
+
+h1,h2{
+    color :blue;
+}
+
+/* ID Selector */
+#title{
+    color: blue;
+
+}
+#footer{
+    color:cadetblue;
+}
+
+/* CLASS SELECTORS */
+
+.green {
+    color: green;
+  }
+  .red {
+    color: red;
+    background: grey;
+  }
+
+  .greeen {
+    color: green;
+    background: yellow;
+  }
+  .reed {
+    color: red;
+    background: black;
+  }
+  
+  span {
+    text-transform: uppercase;
+  }
+  .text {
+    background: white;
+    color: blue;
+  }
+

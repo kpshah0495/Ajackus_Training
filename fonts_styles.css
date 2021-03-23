@@ -1,0 +1,29 @@
+/* 
+font-size - size of the fonts
+font-family - describes the font of the element
+*/
+
+/* body {
+  font-family: Helvetica;
+}
+h1 {
+  font-family: Verdana;
+  font-size: 50px;
+} */
+/* 
+GOOGLE FONTS
+*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+body {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  font-family: "Trade Winds", cursive;
+}
+.one{
+  font-weight:bold;
+}
+.Two{
+  font-style: italic;
+}
